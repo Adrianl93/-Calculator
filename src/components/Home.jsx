@@ -12,8 +12,8 @@ export default function Home(){
     
 
     return(
-<Container>
-    <Calculator></Calculator>
+<Container width={"100vw"} height={"100%"} >
+    <Calculator/>
 </Container>
 
     )
